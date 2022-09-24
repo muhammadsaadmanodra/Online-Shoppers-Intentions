@@ -1,0 +1,2 @@
+# Online-Shoppers-Intentions
+Data of an online shopping website in which we need to identify different  types of customers visit that website by performing exploratory data analysis  and applying different clustering algorithms and checking which clustering  algorithms performs better on data by changing their hyper parameters and comparing algorithms performance using internal and external validations  methods.
